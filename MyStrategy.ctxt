@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategy()
+comment0.text=\r\n\ Creates\ a\ new\ MyStrategy\ object.\r\n
+comment1.params=currentGameState
+comment1.target=sofia.battleship.CallShotMove\ callNextShot(sofia.battleship.GameState)
+comment1.text=\r\n\ The\ callShotMove\ method\ makes\ a\ shot\ on\r\n\ the\ opponent's\ board,\ and\ checks\ if\ it\ either\r\n\ hit\ or\ miss.\ \r\n\ \r\n\ @param\ \ currentGameState\ \ \ A\ sample\ parameter\ for\ a\ method.\r\n\ @return\ \ move\ \ \ The\ act\ for\ the\ battleship.\r\n
+comment2.params=
+comment2.target=boolean\ canPlayDeviously()
+comment2.text=\r\n\ The\ canPlayDeviously\ boolean\ is\ set\ to\ false.\r\n\ \r\n\ @return\ \ false\ \ \ It\ is\ defining\ that\ the\ game\ can't\r\n\ be\ played\ deviously.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ The\ getName\ string\ that\ creates\ the\ name\r\n\ of\ the\ username,\ which\ is\ aska192\ in\ this\ case.\r\n\ \r\n\ @return\ \ "aska192"\ \ \ Defining\ the\ name\ of\ the\ user.\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ The\ method\ below\ is\ just\ declaring\ a\ method\r\n\ called\ newGame,\ which\ is\ left\ blank.\r\n
+comment5.params=currentGameState
+comment5.target=sofia.battleship.ShipPlacementMove\ placeShips(sofia.battleship.GameState)
+comment5.text=\r\n\ The\ ShipPlacementMove\ method\ places\ the\ ships\r\n\ in\ random\ places\ on\ my\ board,\ not\ the\ opponent's\r\n\ board.\r\n\ \r\n\ @param\ \ currentGameState\ \ \ A\ sample\ parameter\ for\ a\ method.\r\n\ @return\ \ move\ \ \ The\ act\ for\ the\ battleship.\ \r\n
+numComments=6

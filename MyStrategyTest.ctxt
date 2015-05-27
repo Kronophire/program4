@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategyTest()
+comment0.text=\r\n\ Creates\ a\ new\ MyStrategyTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testCanPlayDeviously()
+comment2.text=\r\n\ The\ test\ for\ canPlayDeviously()\ checking\r\n\ that\ it\ is\ always\ false\ in\ the\ Battleship\ game.\r\n
+comment3.params=
+comment3.target=void\ testGetName()
+comment3.text=\r\n\ The\ test\ for\ getName()\ checking\r\n\ that\ the\ display\ for\ the\ username\r\n\ is\ always\ aska192\ in\ the\ Battleship\ game.\r\n
+comment4.params=
+comment4.target=void\ testShipPlacements()
+comment4.text=\r\n\ The\ test\ for\ shipPlacements()\ checking\r\n\ that\ there\ would\ be\ always\ 5\ ship\ on\ both\r\n\ board\ at\ the\ end\ of\ the\ battleship\ game.\r\n
+comment5.params=
+comment5.target=void\ testCallNextShot()
+comment5.text=\r\n\ The\ test\ for\ callNextShot()\ checking\r\n\ that\ the\ shot\ would\ be\ decided\ where\r\n\ to\ be\ placed\ on\ the\ opponent's\ board.\r\n
+comment6.params=
+comment6.target=void\ testCallNextShotSamePlace()
+comment6.text=\r\n\ The\ test\ for\ callNextShot()\ checking\r\n\ that\ the\ shot\ would\ be\ decided\ where\r\n\ to\ be\ placed\ on\ the\ opponent's\ board.\ \r\n\ However\ in\ this\ test\ case,\ there\ would\r\n\ be\ another\ shot\ on\ the\ same\ spot\ twice\r\n\ therefore\ the\ test\ would\ check\ that\r\n\ the\ next\ shot\ won't\ happen\ in\ the\r\n\ same\ place.\r\n
+numComments=7
